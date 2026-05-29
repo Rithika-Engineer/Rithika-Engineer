@@ -1,7 +1,7 @@
-## Hi I am Rithika
+ Hi I am Rithika
 
 
-<!--Computer science Engineering Student
+Computer science Engineering Student
 
 💻 Aspiring Software Developer
 
