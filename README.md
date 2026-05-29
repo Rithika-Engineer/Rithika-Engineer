@@ -13,6 +13,43 @@ Computer science Engineering Student
 
 
 
+                                               ## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,js" />
+</p>
+
+
+
+                                        t
+
+
 
 
 
