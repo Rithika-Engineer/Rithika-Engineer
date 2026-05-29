@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I am Rithika
 
-<!--
-**Rithika-Engineer/Rithika-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Computer science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+🌱 Currently learning : Python, JavaScript, SQL, HTML, and CSS and creative canva designer
+
+🚀 Building real-world projects and improving problem-solving skills 
+
+📚 Passionate about Full Stack Development and Software Engineering
+
+
+
+
+
+
