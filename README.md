@@ -13,37 +13,30 @@ Computer science Engineering Student
 
 
 
-                                               ## 🛠️ Tech Stack
+                                              
+                                                                                            
+                                                                                             🛠️ Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+HTML • CSS • JavaScript
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask" />
-</p>
+Python • Node.js • Express.js
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+SQL • MongoDB
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Git • GitHub • VS Code • Canva
 
 ### Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,js" />
-</p>
+Full Stack Development • Data Structures & Algorithms
+
 
 
 
